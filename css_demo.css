@@ -1,0 +1,19 @@
+/* 设置整个页面的背景和字体 */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    color: #333;
+    text-align: center;
+    padding: 50px;
+}
+
+/* 设置标题的样式 */
+h1 {
+    color: #4169e1;
+}
+
+/* 设置段落的样式 */
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
